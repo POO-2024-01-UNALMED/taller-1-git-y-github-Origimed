@@ -1,2 +1,3 @@
-En mi caso todo no tuve ningun inconveniente, pero no guarde el el archvo datos.txt al momento de hacer el primer commit por lo tanto no me reconocio el nombre que estaba escrito 
+En mi caso lo realice en con git bash y no tuve ningun inconveniente, pero no guarde el el archvo datos.txt al momento de hacer el primer commit por lo tanto no me reconocio el nombre que estaba escrito 
 en el texto, ya lo corregí en el commit primero_corregido.
+
