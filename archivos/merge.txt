@@ -1,0 +1,2 @@
+una vez se crea el .txt al realizarse cambios comparados con el anterior commit github desktop 
+permite crear un nuevo commit.
