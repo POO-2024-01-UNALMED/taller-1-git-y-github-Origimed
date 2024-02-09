@@ -6,3 +6,7 @@ ambito del paradigma de programación orientada a objetos, además espero realiz
 =======
 una vez se crea el .txt al realizarse cambios comparados con el anterior commit github desktop 
 permite crear un nuevo commit.
+>>>>>>> refs/remotes/origin/mai
+
+es importante tener muy presente las acciones de merge especialmente al momento de trabajar en equipo pues esta funcionalidad permite que los codigos de varios integrantes pueda integrarse sin que se generen conflictos.
+
