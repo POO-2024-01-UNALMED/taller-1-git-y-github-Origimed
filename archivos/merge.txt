@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Nombre: Alejandro Lopez Posada
 Edad: 18
 Aspiraciones: Espero profundizar mis conocimientos en la programación especialmente en el 
 ambito del paradigma de programación orientada a objetos, además espero realizar activadadesque mejoren mis habilidades colaborativas ofreciendo soluciones que me apasionen :).	
+=======
+una vez se crea el .txt al realizarse cambios comparados con el anterior commit github desktop 
+permite crear un nuevo commit.
