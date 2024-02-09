@@ -1,0 +1,4 @@
+Nombre: Alejandro Lopez Posada
+Edad: 18
+Aspiraciones: Espero profundizar mis conocimientos en la programación especialmente en el 
+ambito del paradigma de programación orientada a objetos, además espero realizar activadadesque mejoren mis habilidades colaborativas ofreciendo soluciones que me apasionen :).	
